@@ -32,7 +32,7 @@ $game_id=array();
 
 foreach($result_game->list as $game) {
 	
-	if ($game->type=='ROULETTE' || $game->type=='SCRAPINGCARD' || $game->type=='ENVELOPE' ) { /*目前已知可吃轉盤，刮刮樂跟抽卡*/
+	if ($game->type=='ROULETTE' || $game->type=='SCRAPINGCARD' || $game->type=='ENVELOPE' || $game->type=='QUESTION' ) { /*目前已知可吃轉盤，刮刮樂，抽卡跟問卷 */
 		$game_id[] = $game->id;
 	}
 		
