@@ -9,7 +9,13 @@
   2022/07/12<p>
   跟據 https://hiraku.tw/ 說明，新版的 麥當勞 APP 已會擋 proxy 所以使用 Fiddler 的方式只能用在舊版的app<p>
   
+  2022/07/26<p>
+  麥當勞強迫更新不影響程式<p>
+  
+  
   ios使用者可參考 https://hiraku.tw/2021/10/6641/ 說明，取得 token<p>
   android 使用者應該可以 rooted 過的手機取得token設定檔再用同的解碼方式解出token。(個人猜測未實際測過)<p>
   token 加密檔應該在這裡 Container/Library/Preferences/tw.com.mcddaily.plist<p>
+  
+  
 
