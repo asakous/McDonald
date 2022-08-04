@@ -12,7 +12,10 @@
   2022/07/26<p>
   麥當勞強迫更新不影響程式<p>
   
-  
+  2020/08/04
+  程式失效中  
+    
+    
   ios使用者可參考 https://hiraku.tw/2021/10/6641/ 說明，取得 token<p>
   android 使用者應該可以 rooted 過的手機取得token設定檔再用同的解碼方式解出token。(個人猜測未實際測過)<p>
   token 加密檔應該在這裡 Container/Library/Preferences/tw.com.mcddaily.plist<p>
