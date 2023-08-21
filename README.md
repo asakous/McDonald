@@ -1,4 +1,7 @@
 # McDonald
+僅供程式參考。使用時您有可能被封帳號
+<p>
+
 台灣麥當勞 APP 自動登入領獎小程式<p>
 使用者您必需用工具找到自已帳號的 accessToken 才能使用<p>
 可使用 Fiddler tool 查<p>
